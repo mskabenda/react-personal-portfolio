@@ -1,7 +1,8 @@
 
 ![proj1](https://github.com/mskabenda/react-personal-portfolio/assets/128099400/d3158071-8efc-4412-bf54-a063cec32cd0)
 ![projects](https://github.com/mskabenda/react-personal-portfolio/assets/128099400/948b30c9-cd33-4e1e-9100-a79842d340fb)
-![experience](https://github.com/mskabenda/react-personal-portfolio/assets/128099400/027781d6-7965-450b-bd5c-f6d68e069c18)
+<img width="1067" alt="example 3" src="https://github.com/mskabenda/react-personal-portfolio/assets/128099400/3e6f749d-90bc-4e39-bd79-c76c152ff2fb">
+
 
 
 # Project README
