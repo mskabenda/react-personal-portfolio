@@ -1,6 +1,6 @@
 
 ![proj1](https://github.com/mskabenda/react-personal-portfolio/assets/128099400/d3158071-8efc-4412-bf54-a063cec32cd0)
-<img width="1065" alt="example 2" src="https://github.com/mskabenda/react-personal-portfolio/assets/128099400/4c7e9882-4797-4a71-a541-20969725cd4f">
+<img width="999" alt="projects-display" src="https://github.com/mskabenda/react-personal-portfolio/assets/128099400/9853e2c9-e224-492f-8207-2f07a73b3419">
 <img width="1067" alt="example 3" src="https://github.com/mskabenda/react-personal-portfolio/assets/128099400/3e6f749d-90bc-4e39-bd79-c76c152ff2fb">
 
 
