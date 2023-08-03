@@ -1,52 +1,23 @@
-
-.home {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
-  gap: 20px; 
-  padding: 20px;
-}
-
 .about {
+  background-color: black;
   width: 100%;
   align-items: center;
   font-family: "inter";
-  color: #404144;
+  color: white;
   flex-direction: column;
 }
 
-.name {
-  width: 100%;
-  height: auto;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  margin-top: 100px;
-  margin-left: 200px;
-  background-color: black;
-  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-  color: white;
-  padding: 20px;
+.about h2 {
+  font-size: 70px;
 }
 
-.name h2 {
-  font-family: "Inter";
-  font-size: 50px;
-  color: white;
-  margin-bottom: 20px;
+.about p{
+  font-size: 30px;
 }
 
 .headshot {
   padding: 10px;
   height: auto;
-}
-
-.description {
-  width: 100%;
-  font-size: 40px;
-  text-align: center;
-  margin-bottom: 20px;
 }
 
 .skills {
@@ -75,21 +46,4 @@
   margin-bottom: 10px;
 }
 
-@media only screen and (max-width: 600px) {
-  .name h2 {
-    font-size: 40px;
-  }
 
-  .description {
-    font-size: 30px;
-  }
-
-  .skills h1 {
-    font-size: 30px;
-  }
-
-  .headshot img {
-    max-width: 100%;
-    height: auto;
-  }
-}
